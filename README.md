@@ -1,9 +1,7 @@
 # GGR472 Project - TDSB Active Travel Sandbox Initiative (Winter 2024)
 
 ### By Jia Hao Choo, Runyi Li & Saning Zhang
-**UPDATE: Site is now archived and no longer live!**
-
-Link to Published Website: https://jiah29.github.io/ggr472_project/
+**UPDATE: Site is now archived and no longer live! It will no longer be maintained.**
 
 ## Overview
 Welcome to the GGR472 Sandbox Project repository! This web map aims to facilitate active commute travel route planning for parents and guardians of TDSB schools by integrating visualizations of relevant features and direct in-map route planning capabilities.
